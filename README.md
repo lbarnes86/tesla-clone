@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tesle Website Clone
+# Tesla Website Clone
 
 </div>
 
