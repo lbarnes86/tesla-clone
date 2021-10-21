@@ -1,12 +1,11 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 import { selectCars } from '../features/car/carSlice'
 import { useSelector } from 'react-redux'
-// import { Translate } from '@material-ui/icons';
 
-// import { style } from '@mui/system';
 
 function Header() {
     const [burgerStatus, setBurgerStatus] = useState(false);
