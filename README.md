@@ -31,7 +31,7 @@ You can run "npm i" to install package dependencies.
 
 ## Usage
 
->FThis project is a clone of Tesla's website. This project was created using React.
+>This project is a clone of Tesla's website. This project was created using React.
 
 ## Dependencies
 
