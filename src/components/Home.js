@@ -8,7 +8,7 @@ function Home() {
             <Section 
                 title="Model S"
                 description="Order Online for Touchless Delivery"
-                backgroundImg="model-s.jpg"
+                backgroundImg="model-s.jpg"  
                 leftBtnText="Custom order"
                 rightBtnText='Existing Inventory'
             />
@@ -26,7 +26,7 @@ function Home() {
                 leftBtnText="Custom order"
                 rightBtnText='Existing Inventory'
             />
-            <Section 
+             <Section 
                 title="Model X"
                 description="Order Online for Touchless Delivery"
                 backgroundImg="model-x.jpg"
@@ -52,7 +52,7 @@ function Home() {
                  title="Accessories"
                  description=""
                  backgroundImg="accessories.jpg"
-                 leftBtnText="Shop now"
+                 leftBtnText="Shop now" 
                  
             />
 
