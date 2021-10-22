@@ -20,7 +20,7 @@
 
 ## Description
 
->This portfolio was created using React.
+>This project was created using React.
 
 ## Installation
 
@@ -31,7 +31,7 @@ You can run "npm i" to install package dependencies.
 
 ## Usage
 
->Feel free to use this as a template for your own portfolio using React. You can run "yarn start" or "npm start". This runs the app in the development mode. Open http://localhost:3000 to view it in the browser. The page will reload if edits are made.
+>This project is a clone of Tesla's website. This project was created using React.
 
 ## Dependencies
 
