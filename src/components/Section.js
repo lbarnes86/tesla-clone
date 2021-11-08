@@ -68,8 +68,8 @@ const ButtonGroup = styled.div `
 `
 const LeftButton = styled.div`
     background-color: rgba(23, 26, 32, 0.8);
-    height 40px;
-    width 256px;
+    height: 40px;
+    width: 256px;
     color: white;
     display: flex;
     justify-content: center;
